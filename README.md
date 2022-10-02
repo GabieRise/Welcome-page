@@ -1,2 +1,2 @@
 # Welcome-page
-:smile:welcome to this simple page
+:smile:A simple Welcome page
